@@ -1,0 +1,87 @@
+h2{
+text-align: center;
+color: rgb(173, 19, 19);
+font-size: 40px;
+font-family: "Audiowave", sans-serif;
+border-bottom: rgba(255, 255, 255, 0.434) dashed;
+padding-bottom: 30px;
+margin-bottom: 50px;
+}
+h3{
+text-align: center;
+color: rgb(255, 255, 255);
+font-size: 30px;
+
+
+
+}
+body{
+background-color: rgb(13, 13, 13);
+
+
+}
+h4{
+color: rgb(255, 255, 255);
+}
+
+a.one:link{
+    color: red;
+    text-decoration: none;
+    font-family: Iceberg;
+}
+
+a.one:visited{
+    color: red;
+    text-decoration: none;
+}
+ 
+a.one:hover{
+    color: white;
+    text-decoration: none;
+}
+
+a.one:active{
+    color: rgb(184, 221, 255);
+}
+
+a.two:link{
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: white;
+}
+
+a.two:visited{
+    color: red;
+    text-decoration: red;
+    text-decoration-style: wavy;
+    text-decoration-color: white;
+}
+
+a.two:hover{
+    color: white;
+}
+a.two:active{
+    color: rgb(184, 221, 255);
+
+}
+
+nav1{
+    padding: 18px;
+    border-radius: 25px;
+    border: 2px solid #ffffff;
+    font-size: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+h3{
+    color: red;
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    
+}
